@@ -7,6 +7,54 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A32DD3E066EA7CFA37324B4F /* Pods_Project_308_408.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 135264F2CF0CF00418D0F558 /* Pods_Project_308_408.framework */; };
+		AB108E99293F66360033BE71 /* Day.plist in Resources */ = {isa = PBXBuildFile; fileRef = AB108E98293F66360033BE71 /* Day.plist */; };
+		AB108E9B293F66AA0033BE71 /* DayPlist.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB108E9A293F66AA0033BE71 /* DayPlist.swift */; };
+		AB108E9F293F68090033BE71 /* vc2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB108E9E293F68090033BE71 /* vc2.swift */; };
+		AB108EA1293F691D0033BE71 /* vc3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB108EA0293F691D0033BE71 /* vc3.swift */; };
+		AB108ECE293F6AE00033BE71 /* Thursdaymisery.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EA3293F6AD90033BE71 /* Thursdaymisery.png */; };
+		AB108ECF293F6AE00033BE71 /* Sundaylove.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EA4293F6AD90033BE71 /* Sundaylove.png */; };
+		AB108ED0293F6AE00033BE71 /* Sundayhealth.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EA5293F6AD90033BE71 /* Sundayhealth.png */; };
+		AB108ED1293F6AE00033BE71 /* colorkit-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB108EA6293F6AD90033BE71 /* colorkit-2.jpg */; };
+		AB108ED2293F6AE00033BE71 /* Saturdaywork.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EA7293F6AD90033BE71 /* Saturdaywork.png */; };
+		AB108ED3293F6AE00033BE71 /* Sundaywork.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EA8293F6AD90033BE71 /* Sundaywork.png */; };
+		AB108ED4293F6AE00033BE71 /* Thursdaywealth.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EA9293F6ADA0033BE71 /* Thursdaywealth.png */; };
+		AB108ED5293F6AE00033BE71 /* Saturdaywealth.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EAA293F6ADA0033BE71 /* Saturdaywealth.png */; };
+		AB108ED6293F6AE00033BE71 /* Tuesdayrisk.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EAB293F6ADA0033BE71 /* Tuesdayrisk.png */; };
+		AB108ED7293F6AE00033BE71 /* Wednesdayrisk.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EAC293F6ADA0033BE71 /* Wednesdayrisk.png */; };
+		AB108ED8293F6AE00033BE71 /* Fridayrisk.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EAD293F6ADA0033BE71 /* Fridayrisk.png */; };
+		AB108ED9293F6AE00033BE71 /* Wednesdaywealth.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EAE293F6ADA0033BE71 /* Wednesdaywealth.png */; };
+		AB108EDA293F6AE00033BE71 /* Thursdayhealth.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EAF293F6ADB0033BE71 /* Thursdayhealth.png */; };
+		AB108EDB293F6AE00033BE71 /* Wednesdaywork.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EB0293F6ADB0033BE71 /* Wednesdaywork.png */; };
+		AB108EDC293F6AE00033BE71 /* Thursdaylove.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EB1293F6ADB0033BE71 /* Thursdaylove.png */; };
+		AB108EDD293F6AE00033BE71 /* Thursdayrisk.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EB2293F6ADB0033BE71 /* Thursdayrisk.png */; };
+		AB108EDE293F6AE00033BE71 /* Saturdayhealth.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EB3293F6ADB0033BE71 /* Saturdayhealth.png */; };
+		AB108EDF293F6AE00033BE71 /* Mondaywealth.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EB4293F6ADC0033BE71 /* Mondaywealth.png */; };
+		AB108EE0293F6AE00033BE71 /* Wednesdaymisery.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EB5293F6ADC0033BE71 /* Wednesdaymisery.png */; };
+		AB108EE1293F6AE00033BE71 /* Sundayrisk.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EB6293F6ADC0033BE71 /* Sundayrisk.png */; };
+		AB108EE2293F6AE00033BE71 /* Mondaywork.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EB7293F6ADC0033BE71 /* Mondaywork.png */; };
+		AB108EE3293F6AE00033BE71 /* Saturdaylove.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EB8293F6ADC0033BE71 /* Saturdaylove.png */; };
+		AB108EE4293F6AE00033BE71 /* Mondaylove.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EB9293F6ADC0033BE71 /* Mondaylove.png */; };
+		AB108EE5293F6AE00033BE71 /* Thursdaywork.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EBA293F6ADD0033BE71 /* Thursdaywork.png */; };
+		AB108EE6293F6AE00033BE71 /* Tuesdaymisery.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EBB293F6ADD0033BE71 /* Tuesdaymisery.png */; };
+		AB108EE7293F6AE00033BE71 /* Fridaylove.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EBC293F6ADD0033BE71 /* Fridaylove.png */; };
+		AB108EE8293F6AE00033BE71 /* Saturdayrisk.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EBD293F6ADD0033BE71 /* Saturdayrisk.png */; };
+		AB108EE9293F6AE00033BE71 /* Mondaymisery.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EBE293F6ADD0033BE71 /* Mondaymisery.png */; };
+		AB108EEA293F6AE00033BE71 /* Wednesdaylove.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EBF293F6ADE0033BE71 /* Wednesdaylove.png */; };
+		AB108EEB293F6AE00033BE71 /* Tuesdaywork.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EC0293F6ADE0033BE71 /* Tuesdaywork.png */; };
+		AB108EEC293F6AE00033BE71 /* Sundaywealth.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EC1293F6ADE0033BE71 /* Sundaywealth.png */; };
+		AB108EED293F6AE00033BE71 /* Sundaymisery.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EC2293F6ADE0033BE71 /* Sundaymisery.png */; };
+		AB108EEE293F6AE00033BE71 /* Tuesdayhealth.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EC3293F6ADE0033BE71 /* Tuesdayhealth.png */; };
+		AB108EEF293F6AE00033BE71 /* Fridaymisery.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EC4293F6ADE0033BE71 /* Fridaymisery.png */; };
+		AB108EF0293F6AE00033BE71 /* Saturdaymisery.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EC5293F6ADF0033BE71 /* Saturdaymisery.png */; };
+		AB108EF1293F6AE00033BE71 /* Fridaywork.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EC6293F6ADF0033BE71 /* Fridaywork.png */; };
+		AB108EF2293F6AE00033BE71 /* Tuesdaywealth.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EC7293F6ADF0033BE71 /* Tuesdaywealth.png */; };
+		AB108EF3293F6AE00033BE71 /* Wednesdayhealth.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EC8293F6ADF0033BE71 /* Wednesdayhealth.png */; };
+		AB108EF4293F6AE00033BE71 /* Mondayrisk.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108EC9293F6ADF0033BE71 /* Mondayrisk.png */; };
+		AB108EF5293F6AE00033BE71 /* Fridayhealth.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108ECA293F6AE00033BE71 /* Fridayhealth.png */; };
+		AB108EF6293F6AE00033BE71 /* Mondayhealth.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108ECB293F6AE00033BE71 /* Mondayhealth.png */; };
+		AB108EF7293F6AE00033BE71 /* Tuesdaylove.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108ECC293F6AE00033BE71 /* Tuesdaylove.png */; };
+		AB108EF8293F6AE00033BE71 /* Fridaywealth.png in Resources */ = {isa = PBXBuildFile; fileRef = AB108ECD293F6AE00033BE71 /* Fridaywealth.png */; };
 		ABE16C37293F641300413526 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABE16C36293F641300413526 /* AppDelegate.swift */; };
 		ABE16C39293F641300413526 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABE16C38293F641300413526 /* SceneDelegate.swift */; };
 		ABE16C3B293F641300413526 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABE16C3A293F641300413526 /* ViewController.swift */; };
@@ -16,6 +64,8 @@
 		ABE16C4E293F641300413526 /* Project_308_408Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABE16C4D293F641300413526 /* Project_308_408Tests.swift */; };
 		ABE16C58293F641400413526 /* Project_308_408UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABE16C57293F641400413526 /* Project_308_408UITests.swift */; };
 		ABE16C5A293F641400413526 /* Project_308_408UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABE16C59293F641400413526 /* Project_308_408UITestsLaunchTests.swift */; };
+		BFB1F5D8CD166604D6F69533 /* Pods_Project_308_408Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A34F12B8698A63F8AD285ACD /* Pods_Project_308_408Tests.framework */; };
+		DC1989727F338EBC5FC0EA89 /* Pods_Project_308_408_Project_308_408UITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9BF36A274731662968FB4A8D /* Pods_Project_308_408_Project_308_408UITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +86,58 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		135264F2CF0CF00418D0F558 /* Pods_Project_308_408.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Project_308_408.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4F8BEAB06EEB6D045C585B62 /* Pods-Project_308_408-Project_308_408UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Project_308_408-Project_308_408UITests.release.xcconfig"; path = "Target Support Files/Pods-Project_308_408-Project_308_408UITests/Pods-Project_308_408-Project_308_408UITests.release.xcconfig"; sourceTree = "<group>"; };
+		6BC66A8E6E728F16FF438226 /* Pods-Project_308_408-Project_308_408UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Project_308_408-Project_308_408UITests.debug.xcconfig"; path = "Target Support Files/Pods-Project_308_408-Project_308_408UITests/Pods-Project_308_408-Project_308_408UITests.debug.xcconfig"; sourceTree = "<group>"; };
+		9BF36A274731662968FB4A8D /* Pods_Project_308_408_Project_308_408UITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Project_308_408_Project_308_408UITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A34F12B8698A63F8AD285ACD /* Pods_Project_308_408Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Project_308_408Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB108E98293F66360033BE71 /* Day.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Day.plist; sourceTree = "<group>"; };
+		AB108E9A293F66AA0033BE71 /* DayPlist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayPlist.swift; sourceTree = "<group>"; };
+		AB108E9E293F68090033BE71 /* vc2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vc2.swift; sourceTree = "<group>"; };
+		AB108EA0293F691D0033BE71 /* vc3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vc3.swift; sourceTree = "<group>"; };
+		AB108EA3293F6AD90033BE71 /* Thursdaymisery.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Thursdaymisery.png; sourceTree = "<group>"; };
+		AB108EA4293F6AD90033BE71 /* Sundaylove.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sundaylove.png; sourceTree = "<group>"; };
+		AB108EA5293F6AD90033BE71 /* Sundayhealth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sundayhealth.png; sourceTree = "<group>"; };
+		AB108EA6293F6AD90033BE71 /* colorkit-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "colorkit-2.jpg"; sourceTree = "<group>"; };
+		AB108EA7293F6AD90033BE71 /* Saturdaywork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Saturdaywork.png; sourceTree = "<group>"; };
+		AB108EA8293F6AD90033BE71 /* Sundaywork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sundaywork.png; sourceTree = "<group>"; };
+		AB108EA9293F6ADA0033BE71 /* Thursdaywealth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Thursdaywealth.png; sourceTree = "<group>"; };
+		AB108EAA293F6ADA0033BE71 /* Saturdaywealth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Saturdaywealth.png; sourceTree = "<group>"; };
+		AB108EAB293F6ADA0033BE71 /* Tuesdayrisk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tuesdayrisk.png; sourceTree = "<group>"; };
+		AB108EAC293F6ADA0033BE71 /* Wednesdayrisk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Wednesdayrisk.png; sourceTree = "<group>"; };
+		AB108EAD293F6ADA0033BE71 /* Fridayrisk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Fridayrisk.png; sourceTree = "<group>"; };
+		AB108EAE293F6ADA0033BE71 /* Wednesdaywealth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Wednesdaywealth.png; sourceTree = "<group>"; };
+		AB108EAF293F6ADB0033BE71 /* Thursdayhealth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Thursdayhealth.png; sourceTree = "<group>"; };
+		AB108EB0293F6ADB0033BE71 /* Wednesdaywork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Wednesdaywork.png; sourceTree = "<group>"; };
+		AB108EB1293F6ADB0033BE71 /* Thursdaylove.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Thursdaylove.png; sourceTree = "<group>"; };
+		AB108EB2293F6ADB0033BE71 /* Thursdayrisk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Thursdayrisk.png; sourceTree = "<group>"; };
+		AB108EB3293F6ADB0033BE71 /* Saturdayhealth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Saturdayhealth.png; sourceTree = "<group>"; };
+		AB108EB4293F6ADC0033BE71 /* Mondaywealth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mondaywealth.png; sourceTree = "<group>"; };
+		AB108EB5293F6ADC0033BE71 /* Wednesdaymisery.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Wednesdaymisery.png; sourceTree = "<group>"; };
+		AB108EB6293F6ADC0033BE71 /* Sundayrisk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sundayrisk.png; sourceTree = "<group>"; };
+		AB108EB7293F6ADC0033BE71 /* Mondaywork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mondaywork.png; sourceTree = "<group>"; };
+		AB108EB8293F6ADC0033BE71 /* Saturdaylove.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Saturdaylove.png; sourceTree = "<group>"; };
+		AB108EB9293F6ADC0033BE71 /* Mondaylove.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mondaylove.png; sourceTree = "<group>"; };
+		AB108EBA293F6ADD0033BE71 /* Thursdaywork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Thursdaywork.png; sourceTree = "<group>"; };
+		AB108EBB293F6ADD0033BE71 /* Tuesdaymisery.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tuesdaymisery.png; sourceTree = "<group>"; };
+		AB108EBC293F6ADD0033BE71 /* Fridaylove.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Fridaylove.png; sourceTree = "<group>"; };
+		AB108EBD293F6ADD0033BE71 /* Saturdayrisk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Saturdayrisk.png; sourceTree = "<group>"; };
+		AB108EBE293F6ADD0033BE71 /* Mondaymisery.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mondaymisery.png; sourceTree = "<group>"; };
+		AB108EBF293F6ADE0033BE71 /* Wednesdaylove.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Wednesdaylove.png; sourceTree = "<group>"; };
+		AB108EC0293F6ADE0033BE71 /* Tuesdaywork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tuesdaywork.png; sourceTree = "<group>"; };
+		AB108EC1293F6ADE0033BE71 /* Sundaywealth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sundaywealth.png; sourceTree = "<group>"; };
+		AB108EC2293F6ADE0033BE71 /* Sundaymisery.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sundaymisery.png; sourceTree = "<group>"; };
+		AB108EC3293F6ADE0033BE71 /* Tuesdayhealth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tuesdayhealth.png; sourceTree = "<group>"; };
+		AB108EC4293F6ADE0033BE71 /* Fridaymisery.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Fridaymisery.png; sourceTree = "<group>"; };
+		AB108EC5293F6ADF0033BE71 /* Saturdaymisery.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Saturdaymisery.png; sourceTree = "<group>"; };
+		AB108EC6293F6ADF0033BE71 /* Fridaywork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Fridaywork.png; sourceTree = "<group>"; };
+		AB108EC7293F6ADF0033BE71 /* Tuesdaywealth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tuesdaywealth.png; sourceTree = "<group>"; };
+		AB108EC8293F6ADF0033BE71 /* Wednesdayhealth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Wednesdayhealth.png; sourceTree = "<group>"; };
+		AB108EC9293F6ADF0033BE71 /* Mondayrisk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mondayrisk.png; sourceTree = "<group>"; };
+		AB108ECA293F6AE00033BE71 /* Fridayhealth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Fridayhealth.png; sourceTree = "<group>"; };
+		AB108ECB293F6AE00033BE71 /* Mondayhealth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mondayhealth.png; sourceTree = "<group>"; };
+		AB108ECC293F6AE00033BE71 /* Tuesdaylove.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tuesdaylove.png; sourceTree = "<group>"; };
+		AB108ECD293F6AE00033BE71 /* Fridaywealth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Fridaywealth.png; sourceTree = "<group>"; };
 		ABE16C33293F641300413526 /* Project_308_408.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project_308_408.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABE16C36293F641300413526 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ABE16C38293F641300413526 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +151,10 @@
 		ABE16C53293F641400413526 /* Project_308_408UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Project_308_408UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABE16C57293F641400413526 /* Project_308_408UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project_308_408UITests.swift; sourceTree = "<group>"; };
 		ABE16C59293F641400413526 /* Project_308_408UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project_308_408UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B411430DAC1C42D54BDB42BC /* Pods-Project_308_408.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Project_308_408.debug.xcconfig"; path = "Target Support Files/Pods-Project_308_408/Pods-Project_308_408.debug.xcconfig"; sourceTree = "<group>"; };
+		C4FAEE012AF1444599637D87 /* Pods-Project_308_408Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Project_308_408Tests.release.xcconfig"; path = "Target Support Files/Pods-Project_308_408Tests/Pods-Project_308_408Tests.release.xcconfig"; sourceTree = "<group>"; };
+		D84EC13BB2EE998024A2DD71 /* Pods-Project_308_408Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Project_308_408Tests.debug.xcconfig"; path = "Target Support Files/Pods-Project_308_408Tests/Pods-Project_308_408Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		F9777B080E15B564DCAFAC16 /* Pods-Project_308_408.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Project_308_408.release.xcconfig"; path = "Target Support Files/Pods-Project_308_408/Pods-Project_308_408.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +162,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A32DD3E066EA7CFA37324B4F /* Pods_Project_308_408.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +170,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFB1F5D8CD166604D6F69533 /* Pods_Project_308_408Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,19 +178,96 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC1989727F338EBC5FC0EA89 /* Pods_Project_308_408_Project_308_408UITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0C95F2AAF4BA20BFC872F669 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B411430DAC1C42D54BDB42BC /* Pods-Project_308_408.debug.xcconfig */,
+				F9777B080E15B564DCAFAC16 /* Pods-Project_308_408.release.xcconfig */,
+				6BC66A8E6E728F16FF438226 /* Pods-Project_308_408-Project_308_408UITests.debug.xcconfig */,
+				4F8BEAB06EEB6D045C585B62 /* Pods-Project_308_408-Project_308_408UITests.release.xcconfig */,
+				D84EC13BB2EE998024A2DD71 /* Pods-Project_308_408Tests.debug.xcconfig */,
+				C4FAEE012AF1444599637D87 /* Pods-Project_308_408Tests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		28C488CE6920CC7C0BF4944D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				135264F2CF0CF00418D0F558 /* Pods_Project_308_408.framework */,
+				9BF36A274731662968FB4A8D /* Pods_Project_308_408_Project_308_408UITests.framework */,
+				A34F12B8698A63F8AD285ACD /* Pods_Project_308_408Tests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		AB108EA2293F6ACD0033BE71 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				AB108EA6293F6AD90033BE71 /* colorkit-2.jpg */,
+				AB108ECA293F6AE00033BE71 /* Fridayhealth.png */,
+				AB108EBC293F6ADD0033BE71 /* Fridaylove.png */,
+				AB108EC4293F6ADE0033BE71 /* Fridaymisery.png */,
+				AB108EAD293F6ADA0033BE71 /* Fridayrisk.png */,
+				AB108ECD293F6AE00033BE71 /* Fridaywealth.png */,
+				AB108EC6293F6ADF0033BE71 /* Fridaywork.png */,
+				AB108ECB293F6AE00033BE71 /* Mondayhealth.png */,
+				AB108EB9293F6ADC0033BE71 /* Mondaylove.png */,
+				AB108EBE293F6ADD0033BE71 /* Mondaymisery.png */,
+				AB108EC9293F6ADF0033BE71 /* Mondayrisk.png */,
+				AB108EB4293F6ADC0033BE71 /* Mondaywealth.png */,
+				AB108EB7293F6ADC0033BE71 /* Mondaywork.png */,
+				AB108EB3293F6ADB0033BE71 /* Saturdayhealth.png */,
+				AB108EB8293F6ADC0033BE71 /* Saturdaylove.png */,
+				AB108EC5293F6ADF0033BE71 /* Saturdaymisery.png */,
+				AB108EBD293F6ADD0033BE71 /* Saturdayrisk.png */,
+				AB108EAA293F6ADA0033BE71 /* Saturdaywealth.png */,
+				AB108EA7293F6AD90033BE71 /* Saturdaywork.png */,
+				AB108EA5293F6AD90033BE71 /* Sundayhealth.png */,
+				AB108EA4293F6AD90033BE71 /* Sundaylove.png */,
+				AB108EC2293F6ADE0033BE71 /* Sundaymisery.png */,
+				AB108EB6293F6ADC0033BE71 /* Sundayrisk.png */,
+				AB108EC1293F6ADE0033BE71 /* Sundaywealth.png */,
+				AB108EA8293F6AD90033BE71 /* Sundaywork.png */,
+				AB108EAF293F6ADB0033BE71 /* Thursdayhealth.png */,
+				AB108EB1293F6ADB0033BE71 /* Thursdaylove.png */,
+				AB108EA3293F6AD90033BE71 /* Thursdaymisery.png */,
+				AB108EB2293F6ADB0033BE71 /* Thursdayrisk.png */,
+				AB108EA9293F6ADA0033BE71 /* Thursdaywealth.png */,
+				AB108EBA293F6ADD0033BE71 /* Thursdaywork.png */,
+				AB108EC3293F6ADE0033BE71 /* Tuesdayhealth.png */,
+				AB108ECC293F6AE00033BE71 /* Tuesdaylove.png */,
+				AB108EBB293F6ADD0033BE71 /* Tuesdaymisery.png */,
+				AB108EAB293F6ADA0033BE71 /* Tuesdayrisk.png */,
+				AB108EC7293F6ADF0033BE71 /* Tuesdaywealth.png */,
+				AB108EC0293F6ADE0033BE71 /* Tuesdaywork.png */,
+				AB108EC8293F6ADF0033BE71 /* Wednesdayhealth.png */,
+				AB108EBF293F6ADE0033BE71 /* Wednesdaylove.png */,
+				AB108EB5293F6ADC0033BE71 /* Wednesdaymisery.png */,
+				AB108EAC293F6ADA0033BE71 /* Wednesdayrisk.png */,
+				AB108EAE293F6ADA0033BE71 /* Wednesdaywealth.png */,
+				AB108EB0293F6ADB0033BE71 /* Wednesdaywork.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
 		ABE16C2A293F641300413526 = {
 			isa = PBXGroup;
 			children = (
+				AB108EA2293F6ACD0033BE71 /* images */,
 				ABE16C35293F641300413526 /* Project_308_408 */,
 				ABE16C4C293F641300413526 /* Project_308_408Tests */,
 				ABE16C56293F641400413526 /* Project_308_408UITests */,
 				ABE16C34293F641300413526 /* Products */,
+				0C95F2AAF4BA20BFC872F669 /* Pods */,
+				28C488CE6920CC7C0BF4944D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -102,9 +287,13 @@
 				ABE16C36293F641300413526 /* AppDelegate.swift */,
 				ABE16C38293F641300413526 /* SceneDelegate.swift */,
 				ABE16C3A293F641300413526 /* ViewController.swift */,
+				AB108E9A293F66AA0033BE71 /* DayPlist.swift */,
+				AB108E9E293F68090033BE71 /* vc2.swift */,
+				AB108EA0293F691D0033BE71 /* vc3.swift */,
 				ABE16C3C293F641300413526 /* Main.storyboard */,
 				ABE16C3F293F641300413526 /* Assets.xcassets */,
 				ABE16C41293F641300413526 /* LaunchScreen.storyboard */,
+				AB108E98293F66360033BE71 /* Day.plist */,
 				ABE16C44293F641300413526 /* Info.plist */,
 			);
 			path = Project_308_408;
@@ -134,6 +323,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = ABE16C5D293F641400413526 /* Build configuration list for PBXNativeTarget "Project_308_408" */;
 			buildPhases = (
+				BF62CAC8DD331660F5B983E9 /* [CP] Check Pods Manifest.lock */,
 				ABE16C2F293F641300413526 /* Sources */,
 				ABE16C30293F641300413526 /* Frameworks */,
 				ABE16C31293F641300413526 /* Resources */,
@@ -151,6 +341,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = ABE16C60293F641400413526 /* Build configuration list for PBXNativeTarget "Project_308_408Tests" */;
 			buildPhases = (
+				93C33C670D71AF1BDAC8B4E1 /* [CP] Check Pods Manifest.lock */,
 				ABE16C45293F641300413526 /* Sources */,
 				ABE16C46293F641300413526 /* Frameworks */,
 				ABE16C47293F641300413526 /* Resources */,
@@ -169,6 +360,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = ABE16C63293F641400413526 /* Build configuration list for PBXNativeTarget "Project_308_408UITests" */;
 			buildPhases = (
+				AB3EA414936CA2576F9DC98A /* [CP] Check Pods Manifest.lock */,
 				ABE16C4F293F641400413526 /* Sources */,
 				ABE16C50293F641400413526 /* Frameworks */,
 				ABE16C51293F641400413526 /* Resources */,
@@ -231,9 +423,53 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB108EF5293F6AE00033BE71 /* Fridayhealth.png in Resources */,
 				ABE16C43293F641300413526 /* LaunchScreen.storyboard in Resources */,
+				AB108EF8293F6AE00033BE71 /* Fridaywealth.png in Resources */,
+				AB108EE4293F6AE00033BE71 /* Mondaylove.png in Resources */,
+				AB108EF7293F6AE00033BE71 /* Tuesdaylove.png in Resources */,
+				AB108ED7293F6AE00033BE71 /* Wednesdayrisk.png in Resources */,
+				AB108EE0293F6AE00033BE71 /* Wednesdaymisery.png in Resources */,
+				AB108EF6293F6AE00033BE71 /* Mondayhealth.png in Resources */,
+				AB108EE9293F6AE00033BE71 /* Mondaymisery.png in Resources */,
+				AB108EDA293F6AE00033BE71 /* Thursdayhealth.png in Resources */,
+				AB108EDB293F6AE00033BE71 /* Wednesdaywork.png in Resources */,
+				AB108EDD293F6AE00033BE71 /* Thursdayrisk.png in Resources */,
+				AB108EE1293F6AE00033BE71 /* Sundayrisk.png in Resources */,
+				AB108EF0293F6AE00033BE71 /* Saturdaymisery.png in Resources */,
+				AB108ED0293F6AE00033BE71 /* Sundayhealth.png in Resources */,
+				AB108EDE293F6AE00033BE71 /* Saturdayhealth.png in Resources */,
+				AB108E99293F66360033BE71 /* Day.plist in Resources */,
+				AB108EF2293F6AE00033BE71 /* Tuesdaywealth.png in Resources */,
+				AB108EDF293F6AE00033BE71 /* Mondaywealth.png in Resources */,
+				AB108ED5293F6AE00033BE71 /* Saturdaywealth.png in Resources */,
+				AB108EEB293F6AE00033BE71 /* Tuesdaywork.png in Resources */,
+				AB108EEF293F6AE00033BE71 /* Fridaymisery.png in Resources */,
+				AB108EF3293F6AE00033BE71 /* Wednesdayhealth.png in Resources */,
+				AB108EF4293F6AE00033BE71 /* Mondayrisk.png in Resources */,
+				AB108EDC293F6AE00033BE71 /* Thursdaylove.png in Resources */,
+				AB108ED8293F6AE00033BE71 /* Fridayrisk.png in Resources */,
+				AB108ED1293F6AE00033BE71 /* colorkit-2.jpg in Resources */,
+				AB108ED4293F6AE00033BE71 /* Thursdaywealth.png in Resources */,
+				AB108EE3293F6AE00033BE71 /* Saturdaylove.png in Resources */,
+				AB108EEC293F6AE00033BE71 /* Sundaywealth.png in Resources */,
+				AB108ED2293F6AE00033BE71 /* Saturdaywork.png in Resources */,
+				AB108EE2293F6AE00033BE71 /* Mondaywork.png in Resources */,
 				ABE16C40293F641300413526 /* Assets.xcassets in Resources */,
+				AB108ECF293F6AE00033BE71 /* Sundaylove.png in Resources */,
+				AB108EE6293F6AE00033BE71 /* Tuesdaymisery.png in Resources */,
+				AB108ED6293F6AE00033BE71 /* Tuesdayrisk.png in Resources */,
+				AB108ECE293F6AE00033BE71 /* Thursdaymisery.png in Resources */,
+				AB108EED293F6AE00033BE71 /* Sundaymisery.png in Resources */,
+				AB108ED3293F6AE00033BE71 /* Sundaywork.png in Resources */,
+				AB108EEA293F6AE00033BE71 /* Wednesdaylove.png in Resources */,
+				AB108EEE293F6AE00033BE71 /* Tuesdayhealth.png in Resources */,
+				AB108EE7293F6AE00033BE71 /* Fridaylove.png in Resources */,
+				AB108EF1293F6AE00033BE71 /* Fridaywork.png in Resources */,
 				ABE16C3E293F641300413526 /* Main.storyboard in Resources */,
+				AB108EE8293F6AE00033BE71 /* Saturdayrisk.png in Resources */,
+				AB108EE5293F6AE00033BE71 /* Thursdaywork.png in Resources */,
+				AB108ED9293F6AE00033BE71 /* Wednesdaywealth.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,6 +489,75 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		93C33C670D71AF1BDAC8B4E1 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Project_308_408Tests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AB3EA414936CA2576F9DC98A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Project_308_408-Project_308_408UITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BF62CAC8DD331660F5B983E9 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Project_308_408-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		ABE16C2F293F641300413526 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -261,6 +566,9 @@
 				ABE16C3B293F641300413526 /* ViewController.swift in Sources */,
 				ABE16C37293F641300413526 /* AppDelegate.swift in Sources */,
 				ABE16C39293F641300413526 /* SceneDelegate.swift in Sources */,
+				AB108E9B293F66AA0033BE71 /* DayPlist.swift in Sources */,
+				AB108EA1293F691D0033BE71 /* vc3.swift in Sources */,
+				AB108E9F293F68090033BE71 /* vc2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -432,6 +740,7 @@
 		};
 		ABE16C5E293F641400413526 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B411430DAC1C42D54BDB42BC /* Pods-Project_308_408.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -459,6 +768,7 @@
 		};
 		ABE16C5F293F641400413526 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F9777B080E15B564DCAFAC16 /* Pods-Project_308_408.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -486,6 +796,7 @@
 		};
 		ABE16C61293F641400413526 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D84EC13BB2EE998024A2DD71 /* Pods-Project_308_408Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -505,6 +816,7 @@
 		};
 		ABE16C62293F641400413526 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C4FAEE012AF1444599637D87 /* Pods-Project_308_408Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -524,6 +836,7 @@
 		};
 		ABE16C64293F641400413526 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6BC66A8E6E728F16FF438226 /* Pods-Project_308_408-Project_308_408UITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -541,6 +854,7 @@
 		};
 		ABE16C65293F641400413526 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4F8BEAB06EEB6D045C585B62 /* Pods-Project_308_408-Project_308_408UITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
